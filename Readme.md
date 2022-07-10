@@ -1,4 +1,4 @@
-# 기후기술 시각화 프로젝트 (완료)
+# 탄소중립을 위한 기후기술 정보 시각화 경진대회 (완료)
 
 https://dacon.io/competitions/official/235911/codeshare/5460
 
