@@ -1,4 +1,4 @@
-# 탄소중립을 위한 기후기술 정보 시각화 경진대회 (완료)
+# 탄소중립을 위한 기후기술 정보 시각화 경진대회
 
 https://dacon.io/competitions/official/235911/codeshare/5460
 
@@ -16,3 +16,4 @@ https://dacon.io/competitions/official/235911/codeshare/5460
 
 ## 팀
 알바트로스 (한원배, 이정훈, 오세연, 박은혜, 김태영)
+최종순위: 4위(장려상) 
